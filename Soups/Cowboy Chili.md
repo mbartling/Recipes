@@ -2,10 +2,11 @@
 aliases: []
 ---
 
-# {{title}}
+# Cowboy Chili
 ## About
 
 ## Tags
+#smokey #warming
 
 ## Pairings
 
