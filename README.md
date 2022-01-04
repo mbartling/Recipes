@@ -7,4 +7,4 @@ All the recipes are documented using [Obsidian](https://obsidian.md/) flavored m
 ![[Table of Contents]]
 
 You can still view the recipes without Obsidian, but it does automatically render out things like tables of contents + useful graphics for deciding on meals. 
-![[Images/obsidian_recipes.png]]
+![Obsidian Screenshot](Images/obsidian_recipes.png)

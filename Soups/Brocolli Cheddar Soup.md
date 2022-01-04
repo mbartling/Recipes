@@ -9,7 +9,7 @@ aliases: []
 
 ## Image
 
-![[broccoli-cheddar.jpg]]
+![not found](../Images/broccoli-cheddar.jpg)
 
 ## Ingredients
 

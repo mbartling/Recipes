@@ -1,4 +1,4 @@
 ## Tags
 
 ## Image
-![[IMG_3882.jpg]]
+![Not Found](../Images/IMG_3882.jpg)
