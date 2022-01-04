@@ -1,2 +1,3 @@
 - [[Spicy Shrimp Chowder]]
-- 
+- [[Brocolli Cheddar Soup]]
+- [[Country French Beef Stew]]

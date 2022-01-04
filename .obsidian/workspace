@@ -4,17 +4,34 @@
     "type": "split",
     "children": [
       {
-        "id": "77bca5618da30f12",
-        "type": "leaf",
-        "state": {
-          "type": "markdown",
-          "state": {
-            "file": "Soups/Country French Beef Stew.md",
-            "mode": "source",
-            "backlinks": true,
-            "source": false
+        "id": "100dce44c958e545",
+        "type": "split",
+        "children": [
+          {
+            "id": "77bca5618da30f12",
+            "type": "leaf",
+            "dimension": 60.56129985228951,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a718ee5019c37746",
+            "type": "leaf",
+            "dimension": 39.438700147710485,
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        }
+        ],
+        "direction": "horizontal"
       }
     ],
     "direction": "vertical"
@@ -78,7 +95,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Soups/Country French Beef Stew.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -95,7 +112,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Soups/Country French Beef Stew.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +135,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Soups/Country French Beef Stew.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,15 +147,15 @@
   },
   "active": "77bca5618da30f12",
   "lastOpenFiles": [
+    "README.md",
+    "Soups/Soups.md",
+    "Table of Contents.md",
     "Soups/Country French Beef Stew.md",
     "Templates/Recipe.md",
     "Soups/Brocolli Cheddar Soup.md",
     "Images/IMG_3882.jpg",
     "Images/IMG_3789.jpg",
     "Images/IMG_3760.jpg",
-    "Images/broccoli-cheddar.jpg",
-    "Table of Contents.md",
-    "Spice Blends/Spice Blends.md",
-    "Seafood/Seafood.md"
+    "Images/broccoli-cheddar.jpg"
   ]
 }
