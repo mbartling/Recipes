@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "89ae658f12f9a3dd",
+    "type": "split",
+    "children": [
+      {
+        "id": "77bca5618da30f12",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Soups/Country French Beef Stew.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "248fb71a1ebe6277",
+    "type": "split",
+    "children": [
+      {
+        "id": "b6eccbfd5fe9730f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a5b0ecaef6bdefb6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "2597b118960df344",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "cad8f02a9c870cb1",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "464997c9756f5315",
+    "type": "split",
+    "children": [
+      {
+        "id": "2b930e8a0a59a184",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "157e7ec5b1350a02",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Soups/Country French Beef Stew.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "714abea75955abc7",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Soups/Country French Beef Stew.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d644932c560f6621",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "12db9ef933709446",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Soups/Country French Beef Stew.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "77bca5618da30f12",
+  "lastOpenFiles": [
+    "Soups/Country French Beef Stew.md",
+    "Templates/Recipe.md",
+    "Soups/Brocolli Cheddar Soup.md",
+    "Images/IMG_3882.jpg",
+    "Images/IMG_3789.jpg",
+    "Images/IMG_3760.jpg",
+    "Images/broccoli-cheddar.jpg",
+    "Table of Contents.md",
+    "Spice Blends/Spice Blends.md",
+    "Seafood/Seafood.md"
+  ]
+}
